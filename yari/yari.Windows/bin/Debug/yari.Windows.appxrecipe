@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PC-CRISTIAN</Machine>
+    <WindowsUser>Patricio</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>0c0a9f11-f705-45a9-aefb-8e481bf61166</PackageIdentityName>
+    <IntermediateOutputPath>E:\PROYECTO4 %28YARI%29\yari\yari\yari.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Windows\bin\Debug\yari.Windows.exe">
+      <PackagePath>yari.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Shared\Images\editarEstudianteImg.png">
+      <PackagePath>Images\editarEstudianteImg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Shared\Images\eliminarEstudianteImg.png">
+      <PackagePath>Images\eliminarEstudianteImg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Shared\Images\iniciar2Img.png">
+      <PackagePath>Images\iniciar2Img.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Shared\Images\iniciarImg.png">
+      <PackagePath>Images\iniciarImg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Shared\Images\jugarImg.png">
+      <PackagePath>Images\jugarImg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Shared\Images\nuevoEstudianteImg.png">
+      <PackagePath>Images\nuevoEstudianteImg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Shared\Images\progresoEstudianteImg.png">
+      <PackagePath>Images\progresoEstudianteImg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Shared\Images\puntuacionesImg.png">
+      <PackagePath>Images\puntuacionesImg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Shared\Images\registroEstudianteImg.png">
+      <PackagePath>Images\registroEstudianteImg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Shared\Images\yariIco.png">
+      <PackagePath>Images\yariIco.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Windows\bin\Debug\Views\JugarPageW8.xbf">
+      <PackagePath>Views\JugarPageW8.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Windows\bin\Debug\Views\LoginAdminPage.xbf">
+      <PackagePath>Views\LoginAdminPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Windows\bin\Debug\Views\MainPage.xbf">
+      <PackagePath>Views\MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Windows\bin\Debug\Views\MenuPage.xbf">
+      <PackagePath>Views\MenuPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Windows\bin\Debug\Views\PanelAdminPage.xbf">
+      <PackagePath>Views\PanelAdminPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Windows\bin\Debug\Views\ProgresoPage.xbf">
+      <PackagePath>Views\ProgresoPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Windows\bin\Debug\Views\PuntuacionesPageW8.xbf">
+      <PackagePath>Views\PuntuacionesPageW8.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Windows\bin\Debug\Views\RegistroPage.xbf">
+      <PackagePath>Views\RegistroPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Windows\bin\Debug\yari.Windows.xr.xml">
+      <PackagePath>yari.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

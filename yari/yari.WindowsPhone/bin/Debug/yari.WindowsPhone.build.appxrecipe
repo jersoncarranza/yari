@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PC-CRISTIAN</Machine>
+    <WindowsUser>Patricio</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>345abc9b-f173-4726-809b-9dfebeb797bb</PackageIdentityName>
+    <IntermediateOutputPath>E:\PROYECTO4 %28YARI%29\yari\yari\yari.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.WindowsPhone\bin\Debug\yari.WindowsPhone.exe">
+      <PackagePath>yari.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\packages\Newtonsoft.Json.6.0.3\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Shared\Images\bocaImg.png">
+      <PackagePath>Images\bocaImg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Shared\Images\docenteImg.png">
+      <PackagePath>Images\docenteImg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Shared\Images\editarEstudianteImg.png">
+      <PackagePath>Images\editarEstudianteImg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Shared\Images\eliminarEstudianteImg.png">
+      <PackagePath>Images\eliminarEstudianteImg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Shared\Images\iniciar2Img.png">
+      <PackagePath>Images\iniciar2Img.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Shared\Images\iniciarImg.png">
+      <PackagePath>Images\iniciarImg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Shared\Images\jugarImg.png">
+      <PackagePath>Images\jugarImg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Shared\Images\loadIco.png">
+      <PackagePath>Images\loadIco.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Shared\Images\nuevoEstudianteImg.png">
+      <PackagePath>Images\nuevoEstudianteImg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Shared\Images\progresoEstudianteImg.png">
+      <PackagePath>Images\progresoEstudianteImg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Shared\Images\puntuacionesImg.png">
+      <PackagePath>Images\puntuacionesImg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Shared\Images\registroEstudianteImg.png">
+      <PackagePath>Images\registroEstudianteImg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Shared\Images\saveImg.png">
+      <PackagePath>Images\saveImg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Shared\Images\speechImg.png">
+      <PackagePath>Images\speechImg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Shared\Images\wordImg.png">
+      <PackagePath>Images\wordImg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.Shared\Images\yariIco.png">
+      <PackagePath>Images\yariIco.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.WindowsPhone\bin\Debug\Common\MisEstilos.xbf">
+      <PackagePath>Common\MisEstilos.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.WindowsPhone\bin\Debug\Views\JugarPageWP.xbf">
+      <PackagePath>Views\JugarPageWP.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.WindowsPhone\bin\Debug\Views\MainPage.xbf">
+      <PackagePath>Views\MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.WindowsPhone\bin\Debug\Views\MenuPage.xbf">
+      <PackagePath>Views\MenuPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.WindowsPhone\bin\Debug\Views\PuntuacionesPageWP.xbf">
+      <PackagePath>Views\PuntuacionesPageWP.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.WindowsPhone\bin\Debug\Views\YariNowPage.xbf">
+      <PackagePath>Views\YariNowPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.WindowsPhone\bin\Debug\yari.WindowsPhone.xr.xml">
+      <PackagePath>yari.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\PROYECTO4 %28YARI%29\yari\yari\yari.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

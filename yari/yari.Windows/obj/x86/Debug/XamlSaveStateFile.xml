@@ -1,0 +1,12 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="e:\proyecto4 (yari)\yari\yari\yari.windows\obj\x86\debug\intermediatexaml\yari.windows.exe" HashGuid="2551421b-8f63-2941-0fe4-af8cc219f22f" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\bing.speech\1.1\references\commonconfiguration\x86\bing.speech.winmd" HashGuid="be9794d0-c314-ee1b-b040-fb023d2cb732" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\bing.speech\1.1\references\commonconfiguration\x86\bing.speech.xaml.speechrecognizerux.dll" HashGuid="fed7b53d-298a-c2a2-8ee4-cdebe25d03cb" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\bing.speech\1.1\references\commonconfiguration\x86\microsoft.bing.platform.logging.clientwinrt.dll" HashGuid="cbe0608d-cd4c-6784-1ae4-39012e8f6612" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\bing.speech\1.1\references\commonconfiguration\x86\microsoft.speech.voiceservice.audio.winmd" HashGuid="31e816d9-de92-911f-9736-c03382b1d675" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\bing.speech\1.1\references\commonconfiguration\x86\microsoft.speech.voiceservice.mssraudio.winmd" HashGuid="31af4e04-488e-c9c0-e19e-64d746b95264" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="e:\proyecto4 (yari)\yari\packages\newtonsoft.json.6.0.3\lib\netcore45\newtonsoft.json.dll" HashGuid="7727b668-bdac-5612-b497-e55cbaabf5af" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
